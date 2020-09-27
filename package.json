@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ReactJS using NextJS for improved SEO and performance.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aichner/nextjs-template.git"
+  },
+  "keywords": [],
+  "author": "Christian Aichner",
+  "license": "(EUPL-1.2)",
+  "bugs": {
+    "url": "https://github.com/aichner/nextjs-template/issues"
+  },
+  "homepage": "https://github.com/aichner/nextjs-template#readme",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npm run dev && next start"
+  },
+  "dependencies": {
+    "next": "9.5.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  }
+}
