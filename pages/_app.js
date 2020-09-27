@@ -3,11 +3,11 @@
 // Local
 import "../styles/globals.scss";
 // Icons
-//import "@fortawesome/fontawesome-free/css/all.min.css";
+import "@fortawesome/fontawesome-free/css/all.min.css";
 // Bootstrap
 import "bootstrap-css-only/css/bootstrap.min.css";
 // Material Design for Bootstrap
-//import "mdbreact/dist/css/mdb.css";
+import "mdbreact/dist/css/mdb.css";
 //#endregion
 
 //#region > App
