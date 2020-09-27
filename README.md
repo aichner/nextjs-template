@@ -64,6 +64,8 @@ How to start this application?
 - Start a local copy of the docs site with `npm start`
 - Or build a local copy of the library with `npm run build`
 
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
 ## [](#bug-and-feature-requests)Bugs and feature requests
 
 Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not
