@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.aichner-christian.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.aichnerc.at/img/logo/logo_web.png" alt="Agency Logo" height="150">
+  <a href="https://www.inspiremedia.at" target="_blank" rel="noopener noreferrer">
+    <img src="https://avatars1.githubusercontent.com/u/50574311?s=200&v=4" alt="Agency Logo" height="200">
   </a>
 </p>
 
@@ -12,12 +12,11 @@
 </p>
 
 ## Table of contents
+
 - [Table of contents](#table-of-contents)
 - [Commits](#commits)
 - [Pull Requests](#pull-requests)
-- [Coding Style](#coding-style)
 - [Versioning](#versioning)
-- [Creators](#creators)
 
 ## [](#commits)Commits
 
