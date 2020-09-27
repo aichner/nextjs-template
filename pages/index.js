@@ -1,6 +1,9 @@
+//#region > Imports
 import Head from "next/head";
-import styles from "../styles/modules/Home.module.css";
+import styles from "../styles/modules/Home.module.scss";
+//#endregion
 
+//#region > Page
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -8,8 +11,12 @@ export default function Home() {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main className={styles.main}>
+        <img
+          src="https://avatars1.githubusercontent.com/u/50574311?s=200&v=4"
+          alt="Agency Logo"
+          className="img-fluid"
+        />
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
@@ -49,20 +56,10 @@ export default function Home() {
           </a>
         </div>
       </main>
-
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{" "}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
-      </footer>
     </div>
   );
 }
+//#endregion
 
 /**
  * SPDX-License-Identifier: (EUPL-1.2)
